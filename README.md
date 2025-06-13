@@ -19,7 +19,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 ---  
   
 ## 🔧 Smart Contract Features  
-
+  
 | Feature        | Description                                       |
 |----------------|---------------------------------------------------|
 | Register       | Set your wallet and skill level (1-10)            |
