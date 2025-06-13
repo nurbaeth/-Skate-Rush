@@ -7,7 +7,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 > 💡 Inspired by retro racing vibes and modern blockchain tech.   
   
 ---  
-
+  
 ## 🎮 Gameplay
 
 - ⛹️ Players register with a **skill level** from 1 to 10  
