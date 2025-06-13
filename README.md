@@ -28,7 +28,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 | Auto Start     | Races start automatically when full               |
 | Fair Finish    | Winner is chosen via `skill + randomness`         |
 | No Tokens      | No payments, tokens, or bets involved             |
-
+  
 ---
 
 ## 📦 Tech Stack
