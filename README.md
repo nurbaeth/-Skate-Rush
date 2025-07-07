@@ -1,4 +1,4 @@
-# 🛹 Skate Rush 
+# 🛹 Skate Rush   
   
 **Skate Rush** is a fully on-chain arcade racing game built with Solidity. No tokens, no gambling — just pure decentralized skateboarding competition.  
 
