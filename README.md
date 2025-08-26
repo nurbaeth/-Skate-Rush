@@ -18,7 +18,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
    
 ---   
    
-## 🔧 Smart Contract Features  
+## 🔧 Smart Contract Features   
   
 | Feature        | Description                                       |
 |----------------|---------------------------------------------------|
