@@ -5,7 +5,7 @@
 Players register, join races, and compete on virtual tracks where both **skill and luck** determine the winner.     
          
 > 💡 Inspired by retro racing vibes and modern blockchain tech.        
-      
+       
 ---     
      
 ## 🎮 Gameplay   
