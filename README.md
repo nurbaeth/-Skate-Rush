@@ -16,7 +16,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 - 📈 Compete for fun, bragging rights, and the leaderboard         
 - 🔒 100% on-chain logic — transparent and immutable       
        
----    
+---     
     
 ## 🔧 Smart Contract Features   
    
