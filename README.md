@@ -9,7 +9,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 ---       
         
 ## 🎮 Gameplay     
-       
+        
 - ⛹️ Players register with a **skill level** from 1 to 10           
 - 🏁 Create or join races with up to 10 players          
 - 🎲 The winner is determined by **skill + randomness**       
