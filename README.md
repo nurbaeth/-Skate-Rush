@@ -13,7 +13,7 @@ Players register, join races, and compete on virtual tracks where both **skill a
 - ⛹️ Players register with a **skill level** from 1 to 10            
 - 🏁 Create or join races with up to 10 players           
 - 🎲 The winner is determined by **skill + randomness**        
-- 📈 Compete for fun, bragging rights, and the leaderboard         
+- 📈 Compete for fun, bragging rights, and the leaderboard          
 - 🔒 100% on-chain logic — transparent and immutable       
        
 ---      
